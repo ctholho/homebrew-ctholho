@@ -21,7 +21,6 @@ class Axt < Formula
       url "https://github.com/ctholho/axt/releases/download/v0.7.0/axt-linux-arm64"
       sha256 "7c34629f18f86a181c0a7c34bebb3721baed2ddaf620fbdc6af2d8e1a2bcc0f0"
     end
-    end
   end
 
   def install
